@@ -40,7 +40,7 @@ Se escribieron consultas exploratorias para calcular prevalencias, brechas de ac
 ### 3. Dashboard Interactivo (Power BI)
 Dashboard de 3 páginas. Para visualizarlo, descargar el archivo `.pbix` y abrirlo con Power BI Desktop (gratuito).
 
-🔗 **[Descargar Dashboard .pbix](https://drive.google.com/file/d/13jPR0T8HON7xeOjpBeKeS_ekx9qvjZm4/view?usp=sharing)**
+🔗 **[Descargar Dashboard .pbix](https://drive.google.com/file/d/13jPR0T8HON7xeOjpBeKeS_ekx9qvjZm4/view?usp=drive_link)**
 
 ---
 
@@ -57,7 +57,7 @@ Dashboard de 3 páginas. Para visualizarlo, descargar el archivo `.pbix` y abrir
 | Página | Contenido | Objetivo |
 | :--- | :--- | :--- |
 | **Visión General** | KPIs de prevalencia, Top 10 carreras por trastorno, segmentación por género | Dimensionar el problema |
-| **Factores de Riesgo** | CGPA, Estado Civil, Edad, Año de Carrera vs Síntomas | Identificar variables asociadas |
+| **Factores de Riesgo** | CGPA, Estado Civil, Edad, Año de Carrera vs trastornos | Identificar variables asociadas |
 | **Brechas de Acceso** | Funnels de búsqueda de ayuda, porcentaje de estudiantes sin tratamiento | Visibilizar la barrera al tratamiento |
 
 ---
@@ -77,19 +77,57 @@ Contrario a la hipótesis de que el matrimonio actúa como factor protector (apo
 Los ataques de pánico se concentran en los rangos de CGPA más bajos: **33%** en el rango 0.00-1.99 y **50%** en el rango 2.00-2.49. En contraste, los rangos superiores a 3.00 no registraron este síntoma. Esto sugiere un impacto directo y severo sobre el desempeño académico, posiblemente por ausentismo, dificultad para rendir exámenes o abandono de materias.
 
 ### 5. Límites del Análisis
-- Las carreras con mayor prevalencia aparente (Communication 100%, BIT, Marine Science) tienen muestras insuficientes (n≤3), por lo que no es posible afirmar diferencias significativas entre carreras.
-- No se puede establecer causalidad con datos transversales. Existen hipótesis alternativas como la autoselección vocacional (personas con ciertas condiciones eligen carreras específicas).
-- El cuarto año de carrera cuenta con solo 8 encuestados, limitando las conclusiones sobre el egreso.
+- **Muestra insuficiente por carrera:** De 38 carreras relevadas, solo **Engineering (n=20)** y **BCS (n=18)** tienen muestras robustas. De las 36 carreras restantes solo BIT tiene 9 encuestados; el resto de ellas cuentan con registros muy bajos o sin validez. Cualquier conclusión sobre diferencias entre carreras es estadísticamente inválida con este dataset.
+- **Cuarto año sin datos suficientes:** Solo 8 encuestados cursan el último año, lo que impide sacar conclusiones sobre el egreso. Los demás años (1º a 3º) tienen muestras adecuadas (n≥24).
+- No se puede establecer causalidad con datos transversales. Existen hipótesis alternativas como la autoselección vocacional.
+- La muestra total (n=100) es adecuada para análisis generales pero insuficiente para segmentaciones por carrera.
 
 ---
 
 ## 🎨 Decisiones de Diseño
 
-- **Paleta de colores:** Seleccionada para garantizar accesibilidad a personas con daltonismo (rojo-verde y azul-amarillo), verificada con Coolors.co.
+- **Paleta de colores:** Seleccionada para garantizar accesibilidad a personas con daltonismo, verificada con Coolors.co.
 - **Tipografía:** Segoe UI en todos los visuales para máxima legibilidad en pantalla.
 - **Idioma:** Encabezados en español para audiencia hispanohablante; valores originales en inglés para fidelidad al dataset fuente.
 - **Navegación:** Botones interactivos en las 3 páginas para cambiar entre vistas sin salir del dashboard.
 
 ---
+
+## 📁 Estructura del Proyecto
+
+student-mental-health-dashboard/
+├── README.md
+├── analisis_salud_mental.sql
+├── Proyecto_Salud_Mental_Analisis.xlsx
+├── Proyecto Salud Mental.pbix
+├── Data/
+│ └── student_mental_health.csv
+└── img/
+├── 1.png
+├── 2.png
+└── 3.png
+
+---
+
+
+---
+
+## 🚀 Próximos Pasos
+
+- Realizar un estudio longitudinal para establecer causalidad.
+- Ampliar la muestra en carreras subrepresentadas y en 4º año.
+- Incorporar variables de nivel socioeconómico y acceso a servicios de salud.
+
+---
+
+## ✍️ Autora
+
+- **[Camila Amato Páez]**
+- [[URL de tu LinkedIn](https://www.linkedin.com/in/camila-amato-p%C3%A1ez-a5088a240/)]
+- [camilaamatopaez@gmail.com]
+
+---
+
+*Proyecto realizado como parte del portfolio de Data Analytics | Julio 2026*
 
 ## 📁 Estructura del Proyecto
