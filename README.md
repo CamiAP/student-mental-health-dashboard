@@ -1,8 +1,8 @@
 # 🧠 Análisis de Factores de Riesgo en Salud Mental Juvenil
 
-[![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-FFB81C?style=for-the-badge&logo=powerbi&logoColor=black)](https://drive.google.com/file/d/TU_ID_DE_DRIVE/view?usp=sharing)
-[![Excel](https://img.shields.io/badge/Excel-Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://github.com/CamiAP/student-mental-health-dashboard/blob/main/Proyecto_Salud_Mental_Analisis.xlsx)
-[![SQL](https://img.shields.io/badge/SQL-Consultas-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/CamiAP/student-mental-health-dashboard/blob/main/analisis_salud_mental.sql)
+[![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-FFB81C?style=for-the-badge&logo=powerbi&logoColor=black)](https://drive.google.com/file/d/1as1cVKlbbz-Dz7DMHtBmHHI924aaqGM3/view?usp=drive_link)
+[![Excel](https://img.shields.io/badge/Excel-Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://github.com/CamiAP/student-mental-health-dashboard/blob/main/Proyecto%20Salud%20Mental_Analisis.xlsx?raw=true)
+[![SQL](https://img.shields.io/badge/SQL-Consultas-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/CamiAP/student-mental-health-dashboard/blob/main/analisis_salud_mental_universitaria.sql)
 
 ---
 
@@ -35,12 +35,12 @@ Se utilizó Power Query para transformar los datos crudos. El proceso documentad
 - Creación de variables auxiliares (rangos de edad, año de carrera en español, índices de prevalencia).
 
 ### 2. Análisis SQL
-Se escribieron consultas exploratorias para calcular prevalencias, brechas de acceso y segmentaciones por condición. El archivo completo está disponible en [`analisis_salud_mental.sql`](https://github.com/CamiAP/student-mental-health-dashboard/blob/main/analisis_salud_mental.sql).
+Se escribieron consultas exploratorias para calcular prevalencias, brechas de acceso y segmentaciones por condición. El archivo completo está disponible en [`analisis_salud_mental_universitaria.sql`](https://github.com/CamiAP/student-mental-health-dashboard/blob/main/analisis_salud_mental_universitaria.sql)
 
 ### 3. Dashboard Interactivo (Power BI)
 Dashboard de 3 páginas. Para visualizarlo, descargar el archivo `.pbix` y abrirlo con Power BI Desktop (gratuito).
 
-🔗 **[Descargar Dashboard .pbix](https://drive.google.com/file/d/13jPR0T8HON7xeOjpBeKeS_ekx9qvjZm4/view?usp=drive_link)**
+🔗 **[Descargar Dashboard .pbix](https://drive.google.com/file/d/1as1cVKlbbz-Dz7DMHtBmHHI924aaqGM3/view?usp=drive_link)**
 
 ---
 
@@ -48,7 +48,7 @@ Dashboard de 3 páginas. Para visualizarlo, descargar el archivo `.pbix` y abrir
 
 | Visión General | Factores de Riesgo | Brechas de Acceso |
 | :---: | :---: | :---: |
-| ![Página 1](https://github.com/CamiAP/student-mental-health-dashboard/blob/main/img/1.png?raw=true) | ![Página 2](https://github.com/CamiAP/student-mental-health-dashboard/blob/main/img/2.png?raw=true) | ![Página 3](https://github.com/CamiAP/student-mental-health-dashboard/blob/main/img/3.png?raw=true) |
+| ![Página 1](https://github.com/CamiAP/student-mental-health-dashboard/blob/f621124bf0a9b6f4a63e0e869ac52a35373ed6fd/img/pagina%201.jpg) | ![Página 2](https://github.com/CamiAP/student-mental-health-dashboard/blob/f621124bf0a9b6f4a63e0e869ac52a35373ed6fd/img/pagina%202.jpg) | ![Página 3](https://github.com/CamiAP/student-mental-health-dashboard/blob/f621124bf0a9b6f4a63e0e869ac52a35373ed6fd/img/pagina%203.jpg) |
 
 ---
 
@@ -129,5 +129,3 @@ student-mental-health-dashboard/
 ---
 
 *Proyecto realizado como parte del portfolio de Data Analytics | Julio 2026*
-
-## 📁 Estructura del Proyecto
