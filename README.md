@@ -48,7 +48,7 @@ Dashboard de 3 páginas. Para visualizarlo, descargar el archivo `.pbix` y abrir
 
 | Visión General | Factores de Riesgo | Brechas de Acceso |
 | :---: | :---: | :---: |
-| ![Página 1](https://github.com/CamiAP/student-mental-health-dashboard/blob/f621124bf0a9b6f4a63e0e869ac52a35373ed6fd/img/pagina%201.jpg) | ![Página 2](https://github.com/CamiAP/student-mental-health-dashboard/blob/f621124bf0a9b6f4a63e0e869ac52a35373ed6fd/img/pagina%202.jpg) | ![Página 3](https://github.com/CamiAP/student-mental-health-dashboard/blob/f621124bf0a9b6f4a63e0e869ac52a35373ed6fd/img/pagina%203.jpg) |
+| ![Página 1](https://github.com/CamiAP/student-mental-health-dashboard/blob/261b5dd6facbc9d96dac57d11474c7e038717857/img/pagina%201.png) | ![Página 2](https://github.com/CamiAP/student-mental-health-dashboard/blob/261b5dd6facbc9d96dac57d11474c7e038717857/img/pagina%202.png) | ![Página 3](https://github.com/CamiAP/student-mental-health-dashboard/blob/261b5dd6facbc9d96dac57d11474c7e038717857/img/pagina%203.png) |
 
 ---
 
@@ -97,15 +97,15 @@ Los ataques de pánico se concentran en los rangos de CGPA más bajos: **33%** e
 
 student-mental-health-dashboard/
 ├── README.md
-├── analisis_salud_mental.sql
-├── Proyecto_Salud_Mental_Analisis.xlsx
+├── analisis_salud_mental_universitaria.sql
 ├── Proyecto Salud Mental.pbix
+├── Proyecto Salud Mental_Analisis.xlsx
 ├── Data/
 │ └── student_mental_health.csv
 └── img/
-├── 1.png
-├── 2.png
-└── 3.png
+├── pagina 1.png
+├── pagina 2.png
+└── pagina 3.png
 
 ---
 
