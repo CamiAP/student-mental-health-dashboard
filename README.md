@@ -71,7 +71,7 @@ Solo el **4.5%** de estudiantes con ansiedad y el **9.2%** con depresión buscar
 El **segundo año** concentra el pico de ansiedad (**48.5%**), y el **tercer año** los picos de depresión y ataques de pánico (**41.7%** en ambos). Contrario a la idea de que el ingreso o el egreso son los momentos críticos, los datos sugieren que la mitad de la carrera es el período de mayor vulnerabilidad psicológica.
 
 ### 3. Estudiantes Casados: Mayor Prevalencia
-Contrario a la hipótesis de que el matrimonio actúa como factor protector (apoyo emocional, estabilidad), los estudiantes casados reportaron mayor prevalencia en los tres trastornos. El equilibrio entre responsabilidades familiares, laborales y académicas podría generar una sobrecarga que supera los beneficios del apoyo conyugal en este grupo etario.
+Contrario a la hipótesis de que el matrimonio actúa como factor protector (apoyo emocional, estabilidad), los estudiantes casados reportaron mayor prevalencia en los tres trastornos. El equilibrio entre responsabilidades familiares, laborales y académicas podría generar una sobrecarga que supera los beneficios del apoyo conyugal en este grupo etario. Sin embargo, este grupo representa solo el 16% de la muestra (n=16), por lo que los resultados deben interpretarse como una tendencia a profundizar, no como una conclusión definitiva.
 
 ### 4. Ataques de Pánico y Rendimiento Académico
 Los ataques de pánico se concentran en los rangos de CGPA más bajos: **33%** en el rango 0.00-1.99 y **50%** en el rango 2.00-2.49. En contraste, los rangos superiores a 3.00 no registraron este síntoma. Esto sugiere un impacto directo y severo sobre el desempeño académico, posiblemente por ausentismo, dificultad para rendir exámenes o abandono de materias.
@@ -81,6 +81,7 @@ Los ataques de pánico se concentran en los rangos de CGPA más bajos: **33%** e
 - **Cuarto año sin datos suficientes:** Solo 8 encuestados cursan el último año, lo que impide sacar conclusiones sobre el egreso. Los demás años (1º a 3º) tienen muestras adecuadas (n≥24).
 - No se puede establecer causalidad con datos transversales. Existen hipótesis alternativas como la autoselección vocacional.
 - La muestra total (n=100) es adecuada para análisis generales pero insuficiente para segmentaciones por carrera.
+- **Muestra de casados acotada:** Solo 16 de los 100 encuestados están casados, lo que limita la robustez de las conclusiones sobre este grupo.
 
 ---
 
