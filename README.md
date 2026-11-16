@@ -123,9 +123,9 @@ student-mental-health-dashboard/
 
 ## ✍️ Autora
 
-- **[Camila Amato Páez]**
-- [[URL de tu LinkedIn](https://www.linkedin.com/in/camila-amato-p%C3%A1ez-a5088a240/)]
-- [camilaamatopaez@gmail.com]
+- **Camila Amato Páez**
+- https://www.linkedin.com/in/camila-amato-p%C3%A1ez/
+- camilaamatopaez@gmail.com
 
 ---
 
